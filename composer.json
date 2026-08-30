@@ -1,5 +1,6 @@
 {
-    "name": "alexwenzel/nova-dependency-container",
+    "name": "huuloc4193/nova-dependency-container",
+    "version" : "v1.13.1",
     "description": "A Laravel Nova 4 form container for grouping fields that depend on other field values.",
     "keywords": [
         "laravel",
